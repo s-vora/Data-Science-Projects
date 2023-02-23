@@ -9,5 +9,5 @@
 - Cosine similarity algorithm
 - Random forest regressor
 - XBBoost regressor
-
-Each project consists of data collection, data preprocessing( , training and testing model on data, evaluation of model.
+Datasets have been collected from kaggle.com, and some from the sklearn.datasets() library. 
+Each project consists of data collection, data preprocessing , training and testing model on data, evaluation of model.
